@@ -1,0 +1,11 @@
+
+Algoritmo de Ordenamiento MergeSort
+
+
+Arreglo original
+
+|9||41||39||38||26||34|
+
+Arreglo ordenado
+
+|9||26||34||38||39||41|
