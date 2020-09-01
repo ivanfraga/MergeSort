@@ -7,7 +7,7 @@ void dividir(int a[], int inicial, int final);
 
 void fusionar(int a[], int pinicial, int pfinal, int medio);
 
-
+//ALGORITMO DE ORDENAMIENTO MERGDESORT
 
 
 
